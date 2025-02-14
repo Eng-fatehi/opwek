@@ -1,6 +1,7 @@
 {
     "type": "FeatureCollection",
-    "features": [
+    "features": 
+    [
       {
         "type": "Feature",
         "properties": {
@@ -11086,9 +11087,11 @@
           "updated_at": "2025-02-14T00:00:00+0100",
           "cartodb_id": 13
         },
-        "geometry": {
+        "geometry": 
+        {
           "type": "Polygon",
-          "coordinates": [
+          "coordinates": 
+          [
       [
         [3.772170, 52.516194],
         [3.783800, 52.515927],
@@ -11162,7 +11165,10 @@
         [3.607969, 52.499525],
         [3.606491, 52.522464],
         [3.605733, 52.545975]
+        
       ]
+          ]
+        }
+      }
     ]
-  }
-}
+} 
